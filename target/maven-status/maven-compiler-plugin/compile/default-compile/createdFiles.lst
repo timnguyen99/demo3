@@ -1,0 +1,8 @@
+com\dpbinh\demo\config\SwaggerConfig.class
+com\dpbinh\demo\dto\HtmlResponse.class
+com\dpbinh\demo\service\WikiInfoServiceImpl.class
+com\dpbinh\demo\service\WikiInfoService.class
+com\dpbinh\demo\client\WikiClientImpl.class
+com\dpbinh\demo\controller\WikiInfoController.class
+com\dpbinh\demo\MainApp.class
+com\dpbinh\demo\client\WikiClient.class

@@ -1,0 +1,4 @@
+app:
+  wiki:
+    host: https://en.wikipedia.org/
+    info: ${app.wiki.host}/wiki/Heidenheim_an_der_Brenz
